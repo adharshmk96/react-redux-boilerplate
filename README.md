@@ -4,7 +4,7 @@ A Lite Boilerplate for react and redux. to be used while starting a project. for
 
 Simply run 
 
-npm install
-npm start
+	npm install
+	npm start
 
 to get Started
